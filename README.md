@@ -3,7 +3,7 @@ Code associated with Edgington et al. (2024) JASMS
 
 
 
-This code can been verified to work under the following environment:
+This code has been verified to work under the following environment:
 | Package      | Version   |
 |--------------|-----------|
 | Python       |  3.7.10   |
